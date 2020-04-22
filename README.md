@@ -27,7 +27,7 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 1](/images/o1.jpg)
 #### Expected
-![Expected 1](/images/ex1.jpg)
+![Expected 1](/images/e1.jpg)
 
 ### Case 2
 #### Input
@@ -35,7 +35,7 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 2](/images/o2.jpg)
 #### Expected
-![Expected 2](/images/ex2.jpg)
+![Expected 2](/images/e2.jpg)
 
 ### Case 3
 #### Input
@@ -43,7 +43,7 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 3](/images/o3.jpg)
 #### Expected
-![Expected 3](/images/ex3.jpg)
+![Expected 3](/images/e3.jpg)
 
 ### Case 4
 #### Input
@@ -51,7 +51,7 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 4](/images/o4.jpg)
 #### Expected
-![Expected 4](/images/ex4.jpg)
+![Expected 4](/images/e4.jpg)
 
 ### Case 5
 #### Input
@@ -59,7 +59,7 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 5](/images/o5.jpg)
 #### Expected
-![Expected 5](/images/ex5.jpg)
+![Expected 5](/images/e5.jpg)
 
 ### Case 6
 #### Input
@@ -67,4 +67,4 @@ The Generator improves it's performance by trying to create images as close to t
 #### Actual Output
 ![Output 6](/images/o6.jpg)
 #### Expected
-![Expected 6](/images/ex6.jpg)
+![Expected 6](/images/e6.jpg)
