@@ -19,3 +19,34 @@ The Generator improves it's performance by trying to create images as close to t
   4. *Testing* - Images of various videos can be loaded and the saved weights of the trained model are used to generate synthetic 720p images
   5. *Resizing* - The synthetic images are resized to 1280x720x3 and stored on the disk
   6. *Image Processing* - Contrast, brightness and other properties are tweaked to improve the quality of the output
+
+## Output
+### Case 1
+#### Input
+#### Actual Output
+#### Expected
+
+### Case 2
+#### Input
+#### Actual Output
+#### Expected
+
+### Case 3
+#### Input
+#### Actual Output
+#### Expected
+
+### Case 4
+#### Input
+#### Actual Output
+#### Expected
+
+### Case 5
+#### Input
+#### Actual Output
+#### Expected
+
+### Case 6
+#### Input
+#### Actual Output
+#### Expected
