@@ -21,6 +21,8 @@ The Generator improves it's performance by trying to create images as close to t
   6. *Image Processing* - Contrast, brightness and other properties are tweaked to improve the quality of the output
 
 ## Output
+The Following output was obtained after training the model upto 13000 epochs. This output was generated before the model converged. 
+
 ### Case 1
 #### Input
 ![Input 1](/images/in1.jpg)
