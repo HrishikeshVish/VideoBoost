@@ -23,6 +23,7 @@ The Generator improves it's performance by trying to create images as close to t
 ## Output
 ### Case 1
 #### Input
+![Input 1](/images/in1.jpg)
 #### Actual Output
 #### Expected
 
