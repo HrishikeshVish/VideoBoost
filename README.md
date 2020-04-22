@@ -1,5 +1,6 @@
 # VideoBoost
 A GAN based neural network to improve the resolution of videos
+#### Hrishikesh V (hrishi.vish@outlook.com)
 
 ## The Process
   1. Creation of Frames - OpenCV is used to extract the frames from a video. The number of frames in a lower quality video differs from that of the higher quality one and therefore, the 720p video is used to generate both the high resolution output and the low resolution input. A resize function is used to reduce the resolution to fit a 144p video. These frames form the input. 
